@@ -1,4 +1,4 @@
-                                                                            ''TETRIS GAME USING PYGAME''
+                                                              ''TETRIS GAME USING PYGAME''
 
 A Very Simple Tetris Game using Pygame and Python
 
